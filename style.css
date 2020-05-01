@@ -1,0 +1,256 @@
+/*DEVELOPER: Binh Le, IS117-004, Spring 2019 */
+.navbar-nav{
+	font-weight:bold;
+	font-size:18px;
+}
+
+.text-muted {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 3px;
+    font-size: 1rem;
+	opacity:0.9;
+}
+
+.col-1{
+	display:none;
+}
+
+.header{
+	font-size:48px;
+	
+}
+body{
+	background-color:#9DA4A0;
+	background-image:url("road-home.jpg");
+}
+
+nav.navbar-custom{
+	background-color:#1B2631;
+	opacity:0.9;
+	height:55px;
+	border-style: solid;
+}
+
+.carousel-inner{
+	margin:auto;
+}
+.carousel{
+
+	height:100%;
+	width:100%;
+	border-style: solid;
+	border-color:white;
+	margin:auto;
+}
+.col-sm-4{
+	margin:auto;
+}
+#maincard{
+	width:75%;
+	text-align:center;
+	margin:auto;
+	color:white;
+	background-color:#1B2631;
+	opacity:0.9
+	border-style: solid;
+	border-color:white;
+}
+#card1{
+	display:block;
+	float:right;
+	margin-top: 50px;
+	color:white;
+	background-color:#1B2631;
+	opacity:0.9;
+	width:45%;
+	margin-right:5px;
+	border-style: solid;
+	border-color:white;
+	margin-bottom:200px;
+}
+
+#card2{
+	display:block;
+	float:left;
+	color:white;
+	background-color:#1B2631;
+	opacity:0.9;
+	width:45%;
+	margin-left:5px;
+	border-style: solid;
+	border-color:white;
+	margin-bottom:200px;
+}
+
+#card3{
+	display:block;
+	float:right;
+	margin-top: 50px;
+	color:white;
+	background-color:#1B2631;
+	opacity:0.9;
+	width:45%;
+	margin-right:5px;
+	border-style: solid;
+	border-color:white;
+}
+#card4{
+	display:block;
+	float:left;
+	margin-top: 50px;
+	color:white;
+	background-color:#1B2631;
+	opacity:0.9;
+	width:45%;
+	border-style: solid;
+	border-color:white;
+	margin-left:110px;
+}
+#card5{
+	display:block;
+	float:left;
+	margin-top: 50px;
+	color:white;
+	background-color:#1B2631;
+	opacity:0.9;
+	width:45%;
+	border-style: solid;
+	border-color:white;
+}
+#card6{
+	display:block;
+	float:left;
+	margin-top: 50px;
+	color:white;
+	background-color:#1B2631;
+	opacity:0.9;
+	width:45%;
+	border-style: solid;
+	border-color:white;
+	margin-left:110px;
+	margin-bottom:200px;
+}
+#card7{
+	display:block;
+	float:left;
+	margin-top: 50px;
+	color:white;
+	background-color:#1B2631;
+	opacity:0.9;
+	width:45%;
+	border-style: solid;
+	border-color:white;
+	margin-bottom:200px;
+}
+
+#card8{
+	display:block;
+	background-color:#1B2631;
+	opacity:0.9;
+	width:70%;
+	margin:auto;
+	border-style: solid;
+	border-color:white;
+	margin-bottom:200px;
+	color:white;
+}
+#card9{
+	display:block;
+	background-color:#1B2631;
+	opacity:0.9;
+	width:70%;
+	margin:auto;
+	border-style: solid;
+	border-color:white;
+	margin-bottom:200px;
+	color:white;
+	margin-bottom:200px;
+}
+.list-group{
+	color:#1B2631;
+}
+#banner{
+	opacity:0.9;
+	height:100%;
+	background-color:#1B2631;
+	width:75%;
+	text-align:center;
+	margin-top:7px;
+}
+
+h1{
+	text-align:center;
+	color:white;
+	font-size:56px;
+}
+
+h5{
+	text-align:center;
+	color:white;
+}
+
+.navbar-custom .navbar-nav li a{
+    color: white !important;
+	font-family:Candara;
+}
+.nav-item a:hover {
+  background-color: black ;
+}
+.dropdown-menu{
+	background-color:#1B2631;
+	border-style: inset;
+}
+a.dropdown-item{
+	color:#1B2631;
+}
+.dropdown-item a:hover{
+	color:green !important;
+}
+.navbar-toggler-icon{
+	background-color:white;
+	border-radius:70%;
+}
+.navbar-brand{
+	border-radius:70%;
+}
+#whycard{
+	display:block;
+	color:white;
+	background-color:#1B2631;
+	opacity:0.9;
+	width:70%;
+	margin:auto;
+	margin-bottom:100px;
+	border-style: solid;
+	border-color:white;
+}
+.carousel-caption{
+	opacity:0.9;
+	position:relative;
+	margin-top:20px;
+	width:70%;
+	background-color:#1B2631;
+	color:white;
+}
+.form-group{
+	color:white;
+	font-size:18px;
+}
+.form-check-label{
+	color:white;
+}
+
+.btn{
+	margin-bottom:100%;
+}
+
+.form-control{
+	width:50%;
+	margin:auto;
+}
